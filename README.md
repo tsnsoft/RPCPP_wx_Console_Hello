@@ -48,5 +48,3 @@ int main(int argc, char** argv)
 ## Ссылки:
 
 https://www.wxwidgets.org/
-
-http://www.anthemion.co.uk/dialogblocks/ImageBlocks-1.07-Setup.exe
